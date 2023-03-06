@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate on the things mentioned above that I'm learning, and possibly other things as well.
 
-📫 How to reach me is complicated. I recently jacked up my MX settings for one of my domains and have yet to fix it. As a matter of fact, I only recently got back into my github account because I had to contact them due to the fact that my recovery e-mail account isn't currently receiving email and hasn't been for about a month now. Eventually I will fix this, I just haven't had the time to do that yet.
+📫 How to reach me was complicated for a while, not anymore as my e-mail addresses are working once again. Had my MX settings messed up for a minute and it took me a little while to make time to fix them. That has been taken care of and I can once again receive messages on those accounts.
 
 <!---
 Shadow-Cipher/Shadow-Cipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
